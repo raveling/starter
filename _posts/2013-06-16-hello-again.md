@@ -29,10 +29,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 1. Peaches
 1. And Cream
 
-
 - Apples
 - Oranges
 - Peaches
 - And Cream
-
-
